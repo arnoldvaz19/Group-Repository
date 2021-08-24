@@ -17,6 +17,5 @@
 
 - [Countries Of Oceanic](https://github.com/arnoldvaz27/CountriesOfOceanic)
 
-<br/><br/>
 
 ### Android Basic Components
